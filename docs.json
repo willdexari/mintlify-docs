@@ -13,39 +13,62 @@
   
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Onboarding & access",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "onboarding/how-alta-works",
+              "onboarding/is-alta-available",
+              "onboarding/create-account",
+              "onboarding/secure-account"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Your cash",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "cash/add-cash-pix-brazil",
+              "cash/add-cash-spei-mexico",
+              "cash/withdraw"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Predicting",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "predicting/predict-up-down",
+              "predicting/boost",
+              "predicting/cash-out"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Markets",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "markets/stocks",
+              "markets/pre-ipo-private",
+              "markets/indexes",
+              "markets/crypto",
+              "markets/metals-energy"
             ]
-      }
-   ]
-  },
+      },
+          {
+            "group": "Rewards",
+            "pages": [
+              "rewards/xp-levels",
+              "rewards/rewards-shipping",
+              "rewards/referral-program"
+            ]
+          },
+          {
+            "group": "Support & legal",
+            "pages": [
+              "support/common-questions",
+              "support/contact-team",
+              "support/alta-lingo",
+              "legal/terms-of-use",
+              "legal/privacy-policy"
+      ]
+    }
+  ]
+},
+   
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
