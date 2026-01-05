@@ -59,9 +59,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/joinaltaapp",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/joinaltaapp"
     }
   }
 }
