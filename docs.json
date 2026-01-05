@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Alta",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#7173D4",
+    "light": "#8773EE",
+    "dark": "#5A71B7"
   },
   "favicon": "/favicon.svg",
   
