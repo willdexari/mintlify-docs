@@ -1,3 +1,5 @@
+docs.json
+ 
  "navigation": {
   
         "groups": [
@@ -54,3 +56,17 @@
               "legal/terms-of-use",
               "legal/privacy-policy",
               "legal/GDPR-privacy-notice"
+
+
+
+Index.mdx
+<Columns cols={2}>
+  <Card title="Brazil 🇧🇷" href="/development">
+    Add cash with Pix, withdraw, and start predicting.
+  </Card>
+  <Card title="Mexico 🇲🇽" href="/essentials/settings">
+    Add cash with SPEI, withdraw, and start predicting.
+  </Card>
+</Columns>
+
+#### Not in Brazil or Mexico?
