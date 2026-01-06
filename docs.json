@@ -13,24 +13,6 @@
   
         "groups": [
           {
-            "group": "Onboarding & access",
-            "pages": [
-              "index",
-              "onboarding/how-alta-works",
-              "onboarding/is-alta-available"
-            ]
-          },
-          {
-            "group": "Markets",
-            "pages": [
-              "markets/stocks",
-              "markets/pre-ipo-private",
-              "markets/indexes",
-              "markets/crypto",
-              "markets/metals-energy"
-            ]
-      },
-          {
             "group": "Legal",
             "pages": [
               "legal/terms-of-use",
