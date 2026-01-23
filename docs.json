@@ -10,18 +10,18 @@
   "favicon": "/favicon.svg",
   
   "navigation": {
-  
-        "groups": [
-          {
-            "group": "Legal",
-            "pages": [
-              "legal/terms-of-use",
-              "legal/privacy-policy",
-              "legal/GDPR-privacy-notice"
-      ]
-    }
-  ]
-},
+    "groups": [
+      {
+        "group": "Legal",
+        "pages": [
+          "legal/terms-of-use",
+          "legal/privacy-policy",
+          "legal/GDPR-privacy-notice",
+          "untitled-page"
+        ]
+      }
+    ]
+  },
    
   "logo": {
     "light": "/logo/light.png",
