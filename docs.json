@@ -17,9 +17,7 @@
             "pages": [
               "index",
               "onboarding/how-alta-works",
-              "onboarding/is-alta-available",
-              "onboarding/create-account",
-              "onboarding/secure-account"
+              "onboarding/is-alta-available"
             ]
           },
           {
