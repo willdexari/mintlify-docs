@@ -15,8 +15,8 @@
         "group": "Onboarding & access",
         "pages": [
           "index",
-          "onboarding/is-alta-available",
-          "onboarding/how-alta-works"
+          "onboarding/how-alta-works",
+          "onboarding/why-alta"
         ]
       },
       {
