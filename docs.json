@@ -15,16 +15,15 @@
         "group": "OVERVIEW",
         "pages": [
           "index",
-          "onboarding/why-alta",
-          "onboarding/markets"
+          "overview/why-alta",
+          "overview/markets"
         ]
       },
       {
         "group": "GETTING STARTED",
         "pages": [
-          "cash/add-cash-pix-brazil",
-          "cash/add-cash-spei-mexico",
-          "cash/withdraw"
+          "getting-started/accessing-alta",
+          "getting-started/how-alta-works"
         ]
       },
       {
