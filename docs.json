@@ -12,15 +12,16 @@
   "navigation": {
     "groups": [
       {
-        "group": "Onboarding & access",
+        "group": "OVERVIEW",
         "pages": [
           "index",
           "onboarding/why-alta",
-          "onboarding/how-alta-works"
+          "onboarding/how-alta-works",
+          "onboarding/how-alta-works-copied-1"
         ]
       },
       {
-        "group": "Your cash",
+        "group": "GETTING STARTED",
         "pages": [
           "cash/add-cash-pix-brazil",
           "cash/add-cash-spei-mexico",
