@@ -26,10 +26,10 @@
           "getting-started/how-alta-works"
         ]
       },
-      
       {
         "group": "SUPPORT & LEGAL",
         "pages": [
+          "legal/account-deletion",
           "legal/terms-of-use",
           "legal/privacy-policy",
           "legal/GDPR-privacy-notice"
